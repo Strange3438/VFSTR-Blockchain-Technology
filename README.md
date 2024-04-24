@@ -1,3 +1,3 @@
-# VFSTR-BCT-LAB
+# Blockchain Technology
 
-This repository contains the lab solutions of Blockchain Technology in VFSTR.
+This repository contains some experiments regarding Smart Contracts in Blockchain Technology
